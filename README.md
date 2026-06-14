@@ -103,13 +103,11 @@ Fully offline ERP system built with Electron and SQLite, featuring machine-bound
 
 <div align="center">
 
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah3511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah3511&layout=compact&theme=tokyonight&hide_border=true)
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah3511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah3511&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
-
----
 
 ## Education
 
